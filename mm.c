@@ -1,4 +1,4 @@
-// mm_explicit.c -> 83점
+// mm_explicit.c -> 83점, mm_realloc() 최적화
 /*
  * mm-naive.c - The fastest, least memory-efficient malloc package.
  * 
